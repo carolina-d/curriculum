@@ -1,0 +1,23 @@
+body {
+  font-family: "Lato", sans-serif;
+}
+h1 {
+  font-family: "Lato", Light 300;
+}
+h2 {
+  color: #4f3785;
+}
+
+.fondo {
+  background-color: #4f3785;
+  color: white;
+}
+
+.foto {
+  max-width: 100%;
+  border-radius: 50%;
+}
+
+i {
+  margin-left: 5px;
+}
